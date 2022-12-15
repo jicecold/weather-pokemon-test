@@ -36,7 +36,7 @@ O objetivo é criar uma aplicação web seguindo os seguintes critérios:
 ## Orientações
 
 - Para consultas de condições climáticas utilize a API [OpenWeatherMap](https://openweathermap.org/api);
-- Para consultas de Pokémons utilize a API [PokéAPI](https://pokeapi.co/docs/v2.html).
+- Para consultas de Pokémons utilize a API [PokéAPI](https://pokeapi.co/).
 
 ### Passo 1 - Configurando o OpenweatherMap
 
