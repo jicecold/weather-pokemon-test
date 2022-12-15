@@ -8,11 +8,11 @@
 - Não se trata de um desafio complexo, apesar da leitura ser extensa;
 - O desafio baseia-se em consumir 2 APIs de diferentes fontes de dados com intuito de agregar as informações e solucionar o problema de acordo com o que foi proposto;
 - Não completar o desafio não será critério para desclassificação, iremos analisar como a proposta do desafio foi elaborada e não somente o resultado;
-- Quaisquer dúvidas sobre o desafio ou dúvidas técnicas fique a vontade para nos perguntar pelo e-mail team@enviabybus.com.br.
+- Quaisquer dúvidas sobre o desafio ou dúvidas técnicas fique a vontade para nos perguntar pelo e-mail tech.team@orionpsp.com.
 
 ## O Desafio
 
-Nós do time de produtos das ADTSys, como bons nerds, somos fãs de Pokémon. Durante um bate-papo de descontração, alguém fez a seguinte pergunta: - “E se os pokémons fossem reais, em que lugares de mundo poderíamos encontrar cada tipo?” Então, outra pessoa respondeu: - “Eles se dividiram de acordo com o clima do nosso planeta, por exemplo, em lugares quentes poderíamos encontrar pokémons de fogo.”
+Nós do time de produtos das Orion Pagamentos, como bons nerds, somos fãs de Pokémon. Durante um bate-papo de descontração, alguém fez a seguinte pergunta: - “E se os pokémons fossem reais, em que lugares de mundo poderíamos encontrar cada tipo?” Então, outra pessoa respondeu: - “Eles se dividiram de acordo com o clima do nosso planeta, por exemplo, em lugares quentes poderíamos encontrar pokémons de fogo.”
 
 O objetivo é criar uma aplicação web seguindo os seguintes critérios:
 
