@@ -12,7 +12,7 @@
 
 ## O Desafio
 
-Nós do time de produtos das ADTSys, como bons nerds, somos fãs de Pokémon. Durante um bate-papo de descontração, alguém fez a seguinte pergunta: - “E se os pokémons fossem reais, em que lugares de mundo poderíamos encontrar cada tipo?” Então, outra pessoa respondeu: - “Eles se dividiram de acordo com o clima do nosso planeta, por exemplo, em lugares quentes poderíamos encontrar pokémons de fogo.”
+Nós do time de produtos das Orion Pagamentos, como bons nerds, somos fãs de Pokémon. Durante um bate-papo de descontração, alguém fez a seguinte pergunta: - “E se os pokémons fossem reais, em que lugares de mundo poderíamos encontrar cada tipo?” Então, outra pessoa respondeu: - “Eles se dividiram de acordo com o clima do nosso planeta, por exemplo, em lugares quentes poderíamos encontrar pokémons de fogo.”
 
 O objetivo é criar uma aplicação web seguindo os seguintes critérios:
 
