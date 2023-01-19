@@ -2,7 +2,7 @@
 
 ## Definições
 
-- O desafio a seguir é o dia-a-dia que qualquer desenvolvedor irá enfrentar no time de produtos da ADTSys;
+- O desafio a seguir é o dia-a-dia que qualquer desenvolvedor irá enfrentar no time de produtos da Orion Pagamentos;
 - Leia todo o conteúdo antes de iniciar e busque entender de fato o desafio proposto;
 - Utilize os frameworks de sua preferência.
 - Não se trata de um desafio complexo, apesar da leitura ser extensa;
